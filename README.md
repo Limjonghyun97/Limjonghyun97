@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Limjonghyun97
+- 👋 Hi, I’m Jonghyun Lim
 - 👀 I’m interested in frontend developer
 - 🌱 I’m currently learning Vue.js
 - 📫 My E-mail adress is jong99411@gmail.com

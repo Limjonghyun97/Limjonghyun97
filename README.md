@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Limjonghyun97
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in frontend developer
+- 🌱 I’m currently learning Vue.js
+- 📫 My E-mail adress is jong99411@gmail.com
 
-- My coding_blog url(https://jjong-wiki-bigdia.tistory.com/)
+- My tistroy blog(coding) url(https://jjong-wiki-bigdia.tistory.com/)
+
+-Thank You
 
 <!---
 Limjonghyun97/Limjonghyun97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

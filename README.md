@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonghyun Lim
 - 👀 I’m interested in frontend developer
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Java, Javascript
 - 📫 My E-mail adress is jong99411@gmail.com
 
 - My tistroy blog(coding) url(https://jjong-wiki-bigdia.tistory.com/)
